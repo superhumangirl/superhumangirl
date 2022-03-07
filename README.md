@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @superhumangirl
 - 👀 I’m interested in building my portfolio
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...
 
 <!---
